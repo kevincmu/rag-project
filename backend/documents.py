@@ -33,4 +33,5 @@ def loadPDF(fileName : str, embeddings):
         chunk.metadata["id"] = fileName
     vectorStore.add_documents(chunks)
     print("All chunks stored.")
+
     return vectorStore
