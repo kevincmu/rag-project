@@ -1,6 +1,6 @@
 Below is an example of what the project looks like:
 
-![example](example.png)
+![rag_example](rag_example.png)
 
 ## Citation
 If you use this code, please cite:
